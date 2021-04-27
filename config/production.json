@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "y2020legg",
+    "mongoUri": "mongodb+srv://lego:SHsfmemXQqySj9vL@cluster0.chtgu.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
